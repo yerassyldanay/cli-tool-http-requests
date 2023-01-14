@@ -12,11 +12,11 @@ This is a command-line tool for making concurrent HTTP requests to a list of URL
 ## Getting started
 
 1. Clone the repo by running `git clone github.com/yerassyldanay/cli-tool-http-requests`
-2. Build the tool by running `go build -o ydcli`
+2. Build the tool by running `make <OS type: windows,linux,darwin>`
 3. Run the tool by providing a list of URLs through the `--urls` flag and any additional flags you want to use. Example: 
 
 ```code
-./ydcli --urls=https://example.com,https://example2.com --verbose --error
+./bin/linux/ydcli --urls=https://example.com,https://example2.com --verbose --error
 ```
 
 You can use following example to make requests (45 valid, 5 invalid urls):
@@ -42,4 +42,6 @@ You can use following example to make requests (45 valid, 5 invalid urls):
 ## Limitations
 
 - The tool is not suitable for handling a large number of URLs (billions). In such cases, external sorting should be used to sort the responses.
-- There should be a limiter for goroutines. I do not believe that the user can bring a problem by providing a large number of urls
+- There should be a limiter for goroutines
+
+Note: I do not believe that the user can bring a problem by providing a large number of urls

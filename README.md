@@ -24,6 +24,12 @@ You can use following example to make requests (45 valid, 5 invalid urls):
 --urls=https://google.com,https://youtube.com,https://facebook.com,https://twitter.com,https://instagram.com,https://linkedin.com,https://pinterest.com,https://reddit.com,https://apple.com,https://amazon.com,https://ebay.com,https://netflix.com,https://spotify.com,https://gmail.com,https://skype.com,https://whatsapp.com,https://tiktok.com,https://zoom.us,https://github.com,https://dropbox.com,https://soundcloud.com,https://wordpress.com,https://slack.com,https://telegram.com,https://trello.com,https://buffer.com,https://hootsuite.com,https://hubspot.com,https://surveymonkey.com,https://wix.com,https://shopify.com,https://squarespace.com,https://canva.com,https://issuu.com,https://weebly.com,https://wufoo.com,https://typeform.com,https://jotform.com,https://zendesk.com,https://salesforce.com,https://zoho.com,https://freshbooks.com,https://invalid.com,https://fake.com,https://notreal.com,https://nonexistent.com,https://doesnotexist.com
 ```
 
+## Downloads
+You can download the pre-built binary files for the following operating systems:
+- Windows: [Download](https://github.com/yerassyldanay/cli-tool-http-requests/bin/windows/ydcli.exe)
+- Linux: [Download](https://github.com/yerassyldanay/cli-tool-http-requests/bin/linux/ydcli)
+- macOS: [Download](https://github.com/yerassyldanay/cli-tool-http-requests/bin/darwin/ydcli)
+
 ## Flags 
 
 ```code

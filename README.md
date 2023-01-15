@@ -26,8 +26,7 @@ You can use following example to make requests (45 valid, 5 invalid urls):
 
 ## Downloads
 
-You can download the pre-built binary files in
-[releases](https://github.com/yerassyldanay/cli-tool-http-requests/releases)
+You can download the pre-built binary files by [the this link](https://github.com/yerassyldanay/cli-tool-http-requests/releases)
 
 ## Flags 
 

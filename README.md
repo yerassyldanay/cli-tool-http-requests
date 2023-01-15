@@ -25,10 +25,9 @@ You can use following example to make requests (45 valid, 5 invalid urls):
 ```
 
 ## Downloads
-You can download the pre-built binary files for the following operating systems:
-- Windows: [Download](https://github.com/yerassyldanay/cli-tool-http-requests/bin/windows/ydcli.exe)
-- Linux: [Download](https://github.com/yerassyldanay/cli-tool-http-requests/bin/linux/ydcli)
-- macOS: [Download](https://github.com/yerassyldanay/cli-tool-http-requests/bin/darwin/ydcli)
+
+You can download the pre-built binary files in
+[releases](https://github.com/yerassyldanay/cli-tool-http-requests/releases)
 
 ## Flags 
 
